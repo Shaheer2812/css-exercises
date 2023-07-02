@@ -11,5 +11,8 @@
 #four {
     background-color: lightgreen;
     font-weight: bold;
+}
+
+.font-size {
     font-size: 24px;
 }
